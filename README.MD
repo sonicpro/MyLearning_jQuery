@@ -1,4 +1,4 @@
-Example of how it is possible to use jQuery in non-browser environment (browser emulators?).
+Example of how it is possible to use jQuery in a non-browser environment (browser emulators?).
 ============================================================================================
 Try to execute something like the following:
 
