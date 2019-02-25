@@ -3,13 +3,13 @@ Example of how it is possible to use jQuery in a non-browser environment (browse
 Try to execute something like the following:
 
 
-D:\Sources JavaScript\MyLearning_jQuery>node\
-\> let factory = require('jquery');\
-undefined\
-\> let win = { document: {} };\
-undefined\
-\> let $ = factory(win);\
-undefined\
-\> win.$ === $;\
-true\
+D:\Sources JavaScript\MyLearning_jQuery>node  
+\> let factory = require('jquery');  
+undefined  
+\> let win = { document: {} };  
+undefined  
+\> let $ = factory(win);  
+undefined  
+\> win.$ === $;  
+true  
 \>
